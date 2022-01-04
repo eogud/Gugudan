@@ -48,7 +48,7 @@ public class Gugudan {
 //		for(int j=1; j<10; j++) {
 //			System.out.println(7 * j);
 //
-//		}
+///		}
 		
 		 ///조건문을 활용한 구구단 구하기
 		
