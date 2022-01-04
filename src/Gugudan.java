@@ -52,7 +52,7 @@ public class Gugudan {
 		
 		 ///조건문을 활용한 구구단 구하기
 		
-		System.out.println("구구단 중 출력할 단은?");
+//		System.out.println("구구단 중 출력할 단은?");
 		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
 		System.out.println("사용자가 입력한 값  :" + number);
